@@ -8,7 +8,7 @@ export const ContainerMain = styled.main`
 `;
 
 export const Form = styled.form`
-  width: 200px;
+  width: 300px;
   padding: 16px;
   display: flex;
   flex-direction: column;
@@ -28,11 +28,11 @@ export const InputForm = styled.input`
   height: 20px;
 `;
 export const InfoSpan = styled.span`
-  font-size: 10px;
+  font-size: 15px;
 `;
 export const TextLabel = styled.p`
   text-align: start;
-  font-size: 12px;
+  font-size: 15px;
 `;
 export const ButtonSubmit = styled.button`
   padding: 4px 8px;

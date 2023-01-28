@@ -12,8 +12,8 @@ export const Navigation = () => {
         Home
       </StyledNavLink>
       {isLoggedIn && (
-        <StyledNavLink to="/phonebook" element={<Contacts />}>
-          Phonebook
+        <StyledNavLink to="/contacts" element={<Contacts />}>
+          Contacts
         </StyledNavLink>
       )}
     </NavContainer>

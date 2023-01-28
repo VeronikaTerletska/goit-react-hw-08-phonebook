@@ -18,7 +18,7 @@ export const StyledNavLink = styled(NavLink)`
   font-weight: 500;
   font-size: 18px;
   &.active {
-    color: #c83349;
+    color: #0f13e1;
   }
   :hover:not(.active),
   :focus-visible:not(.active) {

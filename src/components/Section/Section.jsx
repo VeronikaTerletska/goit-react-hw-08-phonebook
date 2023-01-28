@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import { Wrap, Container, Title } from './Section.style';
+import { Wrap, Container, Title } from './Section.styled';
 
 export const Section = ({ title, children }) => (
   <Wrap>

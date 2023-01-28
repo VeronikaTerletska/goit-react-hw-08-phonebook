@@ -9,7 +9,7 @@ export const AuthNavLink = styled(NavLink)`
   text-decoration: none;
   font-size: 28px;
   font-weight: 600;
-  color: #034f84;
+  color: #0f13e1;
   cursor: pointer;
   &.active {
     color: #c83349;

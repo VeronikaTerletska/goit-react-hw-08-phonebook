@@ -45,7 +45,7 @@ export const LoginForm = () => {
           </LabelForm>
           <LabelForm>
             <TextLabel>
-              Password <InfoSpan>(min 7 signs)</InfoSpan>
+              Password <InfoSpan>(min 8 signs)</InfoSpan>
             </TextLabel>
             <InputForm type="password" name="password" />
           </LabelForm>

@@ -20,7 +20,7 @@ export const Layout = () => {
         <Toaster position="top-right" reverseOrder={false} />
         <footer>
           <Typography variant="body2" color="text.secondary" align="center">
-            {'&copy; 2023 | VeronikaTerletska'}
+            {'2023 | VeronikaTerletska'}
           </Typography>{' '}
         </footer>
       </Container>

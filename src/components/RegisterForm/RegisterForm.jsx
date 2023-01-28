@@ -8,7 +8,7 @@ import {
   InputForm,
   InfoSpan,
   ButtonSubmit,
-} from './LoginForm.styled';
+} from 'components/LoginForm/LoginForm.styled';
 import { Section } from 'components/Section/Section';
 
 export const RegisterForm = () => {

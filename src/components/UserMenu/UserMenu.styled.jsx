@@ -29,8 +29,8 @@ export const LogOutButton = styled.button`
   border-radius: 26px;
   border: 1px solid #a5a2ebe3;
   color: #4c489d;
-  box-shadow: 0px 2px 2px #5c5696;
-  transition: 0.2s;
+  box-shadow: 3px 3px 6px 0px rgba(7, 119, 9, 0.75);
+  transition: transform 500ms;
   &:hover,
   &:focus {
     border-color: #6a679e;
